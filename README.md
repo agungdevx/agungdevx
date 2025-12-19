@@ -77,9 +77,9 @@ I'm a passionate developer focused on building scalable and innovative applicati
 | Platform | Link | Availability |
 | :--- | :--- | :---: |
 | **Instagram** | [@agungdevx](https://instagram.com/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00BFFF?style=flat-square) |
-| **LinkedIn** | [agungdevx](https://linkedin.com/in/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00FF41?style=flat-square) |
-| **Email** | contact@agungdevx.my.id | ![24h](https://img.shields.io/badge/-24h-00FF41?style=flat-square) |
-| **Telegram** | [@agungdevx](https://t.me/agungdevx) | ![Responsive](https://img.shields.io/badge/-Responsive-00FF41?style=flat-square) |
+| **LinkedIn** | [agungdevx](https://linkedin.com/in/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00BFFF?style=flat-square) |
+| **Email** | contact@agungdevx.my.id | ![24h](https://img.shields.io/badge/-24h-00BFFF?style=flat-square) |
+| **Telegram** | [@agungdevx](https://t.me/agungdevx) | ![Responsive](https://img.shields.io/badge/-Responsive-00BFFF?style=flat-square) |
 
 </div>
 
@@ -89,5 +89,15 @@ I'm a passionate developer focused on building scalable and innovative applicati
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/agungdevx)
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:contact@agungdevx.my.id)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/agungdevx)
+
+</div>
+
+<div align="center">
+
+### **🚀 Thanks for visiting!**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=agungdevx&label=PROFILE+VIEWS&color=00FF41&style=flat-square)
+
+*Let's build something amazing together*
 
 </div>
