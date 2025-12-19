@@ -2,7 +2,7 @@
 
 Beginner Developer || UI/UX Enthusiast || Api Developer || Website Developer || AI Prompt Engineer || Portfolio Builder
 
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### **`👨‍💻 About Me`**
 
@@ -16,31 +16,31 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
-### **`🛠️ Tech Stack`**
+### **🛠️ Tech Stack**
 
 **Frontend**  
-![React](https://img.shields.io/badge/-react-000?style=flat-square&logo=react&logoColor=00FF41)
-![Ttpescript](https://img.shields.io/badge/-typescript-000?style=flat-square&logo=typescript&logoColor=00FF41)
-![Next.js](https://img.shields.io/badge/-next.js-000?style=flat-square&logo=nextdotjs&logoColor=00FF41)
-![Tailwind css](https://img.shields.io/badge/-tailwind_css-000?style=flat-square&logo=tailwindcss&logoColor=00FF41)
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00FF41)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?style=flat-square&logo=tailwindcss&logoColor=00FF41)
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/-node.js-000?style=flat-square&logo=nodedotjs&logoColor=00FF41)
-![Python](https://img.shields.io/badge/-python-000?style=flat-square&logo=python&logoColor=00FF41)
-![PostGreSQL](https://img.shields.io/badge/-postgresql-000?style=flat-square&logo=postgresql&logoColor=00FF41)
-![MongoDB](https://img.shields.io/badge/-mongodb-000?style=flat-square&logo=mongodb&logoColor=00FF41)
-![Firebase](https://img.shields.io/badge/-firebase-000?style=flat-square&logo=firebase&logoColor=00FF41)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=00FF41)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=00FF41)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb&logoColor=00FF41)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat-square&logo=firebase&logoColor=00FF41)
 
 **AI & ML**  
-![OpenAI](https://img.shields.io/badge/-chatgpt-000?style=flat-square&logo=openai&logoColor=00FF41)
-![DeepSeek](https://img.shields.io/badge/-deepseek-000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMlpNMiAxN0wxMiAyMkwyMiAxN0wxMiAxMkwyIDE3WiIgZmlsbD0iIzAwRkY0MSIvPgo8L3N2Zz4K&logoColor=00FF41)
-![Gemini](https://img.shields.io/badge/-gemini-000?style=flat-square&logo=google&logoColor=00FF41)
+![OpenAI](https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logo=openai&logoColor=00FF41)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMlpNMiAxN0wxMiAyMkwyMiAxN0wxMiAxMkwyIDE3WiIgZmlsbD0iIzAwRkY0MSIvPgo8L3N2Zz4K&logoColor=00FF41)
+![Gemini](https://img.shields.io/badge/-Gemini-000?style=flat-square&logo=google&logoColor=00FF41)
 
 **Tools & Others**  
-![Figma](https://img.shields.io/badge/-figma-000?style=flat-square&logo=figma&logoColor=00FF41)
-![Git](https://img.shields.io/badge/-git-000?style=flat-square&logo=git&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/-docker-000?style=flat-square&logo=docker&logoColor=00FF41)
-![AWS](https://img.shields.io/badge/-aws-000?style=flat-square&logo=amazonaws&logoColor=00FF41)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat-square&logo=figma&logoColor=00FF41)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=00FF41)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=00FF41)
 
 ---
 
