@@ -10,4 +10,4 @@ I'm a passionate developer focused on building scalable and innovative applicati
 - **Age ::** 19 years old
 - **Location ::** Cianjur, West Java, Indonesia 
 - **I am a ::** Beginner programmer
-- **Focus ::** Building a portfolio & Restapi website
+- **Focus ::** Building a Portfolio, RestAPI Website, and AI Integration
