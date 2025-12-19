@@ -94,9 +94,12 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<div align="center">
 
 #### **🚀 Thanks for visiting!**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=agungdevx&label=PROFILE+VIEWS&color=00FF41&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=agungdevx&label=Profile+Views&color=00BFFF&style=flat-square)
 
 _`Let's build something amazing together`_
+
+</div>
