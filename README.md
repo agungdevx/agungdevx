@@ -1,9 +1,11 @@
 ### **👋 Hi, I'm Agung Mahesa**
+
 Beginner Developer || UI/UX Enthusiast || Api Developer || Website Developer || AI Prompt Engineer || Portfolio Builder
 
 ---
 
 ### **👨‍💻 About Me**
+
 I'm a passionate developer focused on building scalable and innovative applications. With expertise in HTML, CSS, JavaScript, React, Python, Next.js, Node.js, and Tailwind, I'm always eager to explore new technologies and create effective solutions. 🚀
 
 - **Name ::** Agung Mahesa 
@@ -56,12 +58,12 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 ---
 
-### **📈 contribution**
+### **📈 Contribution**
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agungdevx&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true&font_family=Courier&custom_title=)
 
 <div align="center">
 
-**total commits** • **current streak** • **repositories**
+_Total Commits • Current Streak • Repositories_
 
 </div>
