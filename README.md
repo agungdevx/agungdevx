@@ -1,4 +1,4 @@
-### **👋 Hi, I'm Agung Mahesa**
+### **👋 Hi, I'm `Agung Mahesa`**
 
 Beginner Developer || UI/UX Enthusiast || Api Developer || Website Developer || AI Prompt Engineer || Portfolio Builder
 
@@ -64,6 +64,6 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 <div align="center">
 
-`Total Commits • Current Streak • Repositories`
+**Total Commits • Current Streak • Repositories**
 
 </div>
