@@ -16,7 +16,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-### **🛠️ Tech Stack**
+### **`🛠️ Tech Stack`**
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=00FF41)
