@@ -56,25 +56,12 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 ---
 
-### **🌟 Github Highlight**
+### **📈 contribution**
+
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agungdevx&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true&font_family=Courier&custom_title=)
 
 <div align="center">
 
-| repository | description | stars |
-| :--- | :--- | :---: |
-| **[project-alpha](https://github.com/agungdevx/project-alpha)** | modern full-stack web application with ai integration | ![stars](https://img.shields.io/github/stars/agungdevx/project-alpha?style=flat-square&color=00FF41&labelColor=000000) |
-| **[ui-system](https://github.com/agungdevx/ui-system)** | design system component library for react | ![stars](https://img.shields.io/github/stars/agungdevx/ui-system?style=flat-square&color=00FF41&labelColor=000000) |
-| **[api-gateway](https://github.com/agungdevx/api-gateway)** | scalable microservices api gateway | ![stars](https://img.shields.io/github/stars/agungdevx/api-gateway?style=flat-square&color=00FF41&labelColor=000000) |
+**total commits** • **current streak** • **repositories**
 
 </div>
-
-<details>
-<summary><b>view more repositories</b></summary>
-
-| repository | tech stack | status |
-| :--- | :--- | :---: |
-| [data-visualizer](https://github.com/agungdevx/data-visualizer) | react, d3.js, python | ![status](https://img.shields.io/badge/-active-00FF41?style=flat-square) |
-| [cli-tool](https://github.com/agungdevx/cli-tool) | node.js, typescript | ![status](https://img.shields.io/badge/-maintained-00FF41?style=flat-square) |
-| [mobile-app](https://github.com/agungdevx/mobile-app) | react native, firebase | ![status](https://img.shields.io/badge/-archived-888888?style=flat-square) |
-
-</details>
