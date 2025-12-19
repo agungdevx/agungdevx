@@ -1,35 +1,5 @@
-<div align="center">
-
-# `[ AGUNGDEVX : FULL-STACK ARCHITECT ]`
-
-<img src="https://capsule-render.vercel.app/render?type=thicker&color=000000&customColorList=10&height=200&section=header&text=WELCOME%20TO%20MY%20CORE&fontSize=70&animation=fadeIn&fontAlignY=35&fontFamily=Courier" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Building+Digital+Experiences;UI%2FUX+Systems+Designer;Full+Stack+Solutions;Solving+Complex+Problems)](https://git.io/typing-svg)
-
----
-
-### `// SYSTEM STATUS: OPERATIONAL`
-`[ 🚀 Exploring the boundaries of UI/UX & Scalable Backend ]`
-
-</div>
-
-## `## INTERACTIVE_TERMINAL`
-
-<div align="center">
-  <a href="https://github.com/agungdevx">
-    <img src="https://github-readme-stats.vercel.app/api?username=agungdevx&show_icons=true&theme=terminal&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" alt="Agung Stats" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungdevx&layout=compact&theme=terminal&hide_border=true&title_color=00FF41&text_color=FFFFFF" alt="Top Langs" />
-</div>
-
----
-
-## `## TECH_STACK.exe`
-
-```javascript
-const agungdevx = {
-  frontend: ["React.js", "Next.js", "TailwindCSS", "Figma", "Framer Motion"],
-  backend:  ["Node.js", "Express", "PostgreSQL", "MongoDB", "Prisma"],
-  tools:    ["Docker", "Git", "Vercel", "Linux", "Postman"],
-  philosophy: "Building clean code with high-end aesthetic UI"
-};
+{
+  "filename": "README.md",
+  "style": "Full Stack UI/UX Professional (Monospace)",
+  "markdown_content": "<div align=\"center\">\n\n# `[ AGUNGDEVX : FULL-STACK ARCHITECT ]` \n\n<img src=\"https://capsule-render.vercel.app/render?type=thicker&color=000000&customColorList=10&height=200&section=header&text=WELCOME%20TO%20MY%20CORE&fontSize=70&animation=fadeIn&fontAlignY=35&fontFamily=Courier\" />\n\n[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Building+Digital+Experiences;UI%2FUX+Systems+Designer;Full+Stack+Solutions;Solving+Complex+Problems)](https://git.io/typing-svg)\n\n---\n\n### `// SYSTEM STATUS: OPERATIONAL` \n`[ 🚀 Exploring the boundaries of UI/UX & Scalable Backend ]` \n\n</div>\n\n## `## INTERACTIVE_TERMINAL` \n\n<div align=\"center\">\n  <a href=\"https://github.com/agungdevx\">\n    <img src=\"https://github-readme-stats.vercel.app/api?username=agungdevx&show_icons=true&theme=terminal&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF\" alt=\"Agung Stats\" />\n  </a>\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=agungdevx&layout=compact&theme=terminal&hide_border=true&title_color=00FF41&text_color=FFFFFF\" alt=\"Top Langs\" />\n</div>\n\n---\n\n## `## TECH_STACK.exe` \n\n```javascript\nconst agungdevx = {\n  frontend: [\"React.js\", \"Next.js\", \"TailwindCSS\", \"Figma\", \"Framer Motion\"],\n  backend:  [\"Node.js\", \"Express\", \"PostgreSQL\", \"MongoDB\", \"Prisma\"],\n  tools:    [\"Docker\", \"Git\", \"Vercel\", \"Linux\", \"Postman\"],\n  philosophy: \"Building clean code with high-end aesthetic UI\"\n};\n```\n\n---\n\n## `## MINI_GAME: REPOSITORY_HUNTER` \n`[!] Instructions: Locate the hidden gems in the system grid.` \n\n| 👾 | ⬛ | ⬛ | ⬛ | 👾 |\n| :---: | :---: | :---: | :---: | :---: |\n| ⬛ | 💎 | ⬛ | ⬛ | ⬛ |\n| ⬛ | ⬛ | 👾 | ⬛ | 💎 |\n| 💎 | ⬛ | ⬛ | 👾 | ⬛ |\n\n> `> Tip: Check my pinned repositories to \"win\" the real game!` \n\n---\n\n## `## ACTIVITY_GRAPH` \n\n![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agungdevx&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&font_family=Courier)\n\n---\n\n## `## CONNECT_WITH_ME` \n\n<div align=\"center\">\n\n`[ INSTAGRAM ]` | `[ LINKEDIN ]` | `[ PORTFOLIO ]` | `[ EMAIL ]` \n:---: | :---: | :---: | :---: \n[![IG](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/agungdevx) | [![LI](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/agungdevx) | [![PF](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=polywork&logoColor=00FF41)](https://agungdevx.com) | [![EM](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:hello@agungdevx.com)\n\n</div>\n\n---\n\n<div align=\"center\">\n\n### `// END_OF_LINE` \n`Designed by @agungdevx | Built with <3 and Terminal Vibes` \n\n![Snake animation](https://github-user-contents.githubusercontent.com/73216654/152285383-363f848b-304b-489a-9e2e-2a5433f48a47.gif)\n\n</div>"
+}
