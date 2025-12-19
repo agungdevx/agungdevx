@@ -97,10 +97,10 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 <div align="center">
 
-### **💫 See you in the next commit**
+### **🚀 Thanks for visiting!**
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=00FF41&labelColor=000000&label=PROFILE+VISITORS&query=value&url=https://api.countapi.xyz/hit/agungdevx.githubio/readme&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=agungdevx&label=PROFILE+VIEWS&color=00FF41&style=flat-square)
 
-*Innovation never stops*
+_`Let's build something amazing together`_
 
 </div>
