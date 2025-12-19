@@ -76,7 +76,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 | Platform | Link | Availability |
 | :--- | :--- | :---: |
-| **Instagram** | [@agungdevx](https://instagram.com/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00FF41?style=flat-square) |
+| **Instagram** | [@agungdevx](https://instagram.com/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00BFFF?style=flat-square) |
 | **LinkedIn** | [agungdevx](https://linkedin.com/in/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00FF41?style=flat-square) |
 | **Email** | contact@agungdevx.my.id | ![24h](https://img.shields.io/badge/-24h-00FF41?style=flat-square) |
 | **Telegram** | [@agungdevx](https://t.me/agungdevx) | ![Responsive](https://img.shields.io/badge/-Responsive-00FF41?style=flat-square) |
@@ -90,8 +90,4 @@ I'm a passionate developer focused on building scalable and innovative applicati
 [![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:contact@agungdevx.my.id)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/agungdevx)
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontSize=90&fontColor=000000" />
 </div>
