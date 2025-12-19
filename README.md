@@ -94,10 +94,12 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 <div align="center">
 
-### **🚀 Thanks for visiting!**
+<div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=agungdevx&label=PROFILE+VIEWS&color=00FF41&style=flat-square)
+### **✨ Keep exploring, keep creating**
 
-*Let's build something amazing together*
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fagungdevx&countColor=%2300FF41&style=flat-square)
+
+*Code • Design • Innovate*
 
 </div>
