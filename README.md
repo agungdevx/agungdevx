@@ -92,14 +92,15 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 </div>
 
-<div align="center">
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 <div align="center">
 
-### **✨ Keep exploring, keep creating**
+### **💫 See you in the next commit**
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fagungdevx&countColor=%2300FF41&style=flat-square)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=00FF41&labelColor=000000&label=PROFILE+VISITORS&query=value&url=https://api.countapi.xyz/hit/agungdevx.githubio/readme&style=flat-square)
 
-*Code • Design • Innovate*
+*Innovation never stops*
 
 </div>
