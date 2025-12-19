@@ -32,10 +32,9 @@ i'm a passionate developer who enjoys creating digital experiences that blend ae
 
 <div align="center">
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <a href="https://instagram.com/agungdevx"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="32" height="32" alt="Instagram"></a> | <a href="https://linkedin.com/in/agungdevx"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="32" height="32" alt="LinkedIn"></a> | <a href="https://agungdevx.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/link.svg" width="32" height="32" alt="Portfolio"></a> | <a href="mailto:hello@agungdevx.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="32" height="32" alt="Email"></a> |
-| **instagram** | **linkedin** | **portfolio** | **email** |
+| instagram | linkedin | email |
+| :---: | :---: | :---: |
+| [![instagram](https://img.shields.io/badge/-instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/agungdevx) | [![linkedin](https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/agungdevx) | [![email](https://img.shields.io/badge/-email-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:hello@agungdevx.com) |
 
 </div>
 
