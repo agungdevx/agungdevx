@@ -64,6 +64,6 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 <div align="center">
 
-_Total Commits • Current Streak • Repositories_
+~Total Commits • Current Streak • Repositories~
 
 </div>
