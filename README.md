@@ -4,7 +4,7 @@ Beginner Developer || UI/UX Enthusiast || Api Developer || Website Developer || 
 
 ---
 
-### **👨‍💻 About Me**
+### **`👨‍💻 About Me`**
 
 I'm a passionate developer focused on building scalable and innovative applications. With expertise in HTML, CSS, JavaScript, React, Python, Next.js, Node.js, and Tailwind, I'm always eager to explore new technologies and create effective solutions. 🚀
 
@@ -16,7 +16,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 ---
 
-### **🛠️ Tech Stack**
+### **`🛠️ Tech Stack`**
 
 **Frontend**  
 ![React](https://img.shields.io/badge/-react-000?style=flat-square&logo=react&logoColor=00FF41)
@@ -44,7 +44,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 ---
 
-### **📊 Github Analytics**
+### **`📊 Github Analytics`**
 
 <div align="center">
 
@@ -58,7 +58,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 ---
 
-### **📈 Contribution**
+### **`📈 Contribution`**
 
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agungdevx&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true&font_family=Courier&custom_title=)
 
@@ -67,3 +67,5 @@ I'm a passionate developer focused on building scalable and innovative applicati
 **Total Commits • Current Streak • Repositories**
 
 </div>
+
+===
