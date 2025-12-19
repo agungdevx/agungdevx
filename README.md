@@ -68,4 +68,26 @@ I'm a passionate developer focused on building scalable and innovative applicati
 
 </div>
 
-===
+---
+
+### **📱 Contact Me**
+
+<div align="center">
+
+| Platform | Link | Availability |
+| :--- | :--- | :---: |
+| **Instagram** | [@agungdevx](https://instagram.com/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00FF41?style=flat-square) |
+| **LinkedIn** | [agungdevx](https://linkedin.com/in/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00FF41?style=flat-square) |
+| **Email** | hello@agungdevx.com | ![24h](https://img.shields.io/badge/-24h-00FF41?style=flat-square) |
+| **Telegram** | [@agungdevx](https://t.me/agungdevx) | ![Responsive](https://img.shields.io/badge/-Responsive-00FF41?style=flat-square) |
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/agungdevx)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/agungdevx)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:hello@agungdevx.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/agungdevx)
+
+</div>
