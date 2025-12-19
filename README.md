@@ -1,6 +1,12 @@
-# hi there, i'm agung 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=building+digital+experiences;ui%2Fux+systems+designer;full+stack+solutions;solving+complex+problems)](https://git.io/typing-svg)
+# hi, i'm agung mahesa
+
+[![waving hand](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/hand.svg)](https://github.com/edent/SuperTinyIcons)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=building+digital+experiences;ui%2Fux+systems+designer;full+stack+solutions;solving+complex+problems)](https://git.io/typing-svg)
+
+</div>
 
 ## about me
 
