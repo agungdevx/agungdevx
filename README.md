@@ -11,3 +11,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 - **Location ::** Cianjur, West Java, Indonesia 
 - **I am a ::** Beginner programmer
 - **Focus ::** Building a Portfolio, RestAPI Website, and AI Integration
+
+---
+
+## **🛠️ Tech Stack**
