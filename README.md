@@ -1,40 +1,41 @@
-# HI THERE, I'M AGUNG 👋
+# hi there, i'm agung 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=BUILDING+DIGITAL+EXPERIENCES;UI%2FUX+SYSTEMS+DESIGNER;FULL+STACK+SOLUTIONS;SOLVING+COMPLEX+PROBLEMS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=building+digital+experiences;ui%2Fux+systems+designer;full+stack+solutions;solving+complex+problems)](https://git.io/typing-svg)
 
-## 🚀 ABOUT ME
+## about me
 
-I'M A PASSIONATE DEVELOPER WHO ENJOYS CREATING DIGITAL EXPERIENCES THAT BLEND AESTHETIC DESIGN WITH FUNCTIONAL EXCELLENCE. MY EXPERTISE SPANS ACROSS UI/UX DESIGN AND FULL-STACK DEVELOPMENT, WITH A FOCUS ON SOLVING COMPLEX PROBLEMS THROUGH ELEGANT SOLUTIONS.
+i'm a passionate developer who enjoys creating digital experiences that blend aesthetic design with functional excellence. my expertise spans across ui/ux design and full-stack development, with a focus on solving complex problems through elegant solutions.
 
-## 🛠️ TECHNOLOGIES & TOOLS
+## technologies & tools
 
-**FRONTEND:**  
-![REACT](https://img.shields.io/badge/-REACT-000?style=flat-square&logo=react&logoColor=00FF41)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-000?style=flat-square&logo=typescript&logoColor=00FF41)
-![TAILWIND CSS](https://img.shields.io/badge/-TAILWIND_CSS-000?style=flat-square&logo=tailwind-css&logoColor=00FF41)
+**frontend:**  
+![react](https://img.shields.io/badge/-react-000?style=flat-square&logo=react&logoColor=00FF41)
+![typescript](https://img.shields.io/badge/-typescript-000?style=flat-square&logo=typescript&logoColor=00FF41)
+![tailwind css](https://img.shields.io/badge/-tailwind_css-000?style=flat-square&logo=tailwind-css&logoColor=00FF41)
 
-**BACKEND:**  
-![NODE.JS](https://img.shields.io/badge/-NODE.JS-000?style=flat-square&logo=node.js&logoColor=00FF41)
-![PYTHON](https://img.shields.io/badge/-PYTHON-000?style=flat-square&logo=python&logoColor=00FF41)
-![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-000?style=flat-square&logo=postgresql&logoColor=00FF41)
+**backend:**  
+![node.js](https://img.shields.io/badge/-node.js-000?style=flat-square&logo=node.js&logoColor=00FF41)
+![python](https://img.shields.io/badge/-python-000?style=flat-square&logo=python&logoColor=00FF41)
+![postgresql](https://img.shields.io/badge/-postgresql-000?style=flat-square&logo=postgresql&logoColor=00FF41)
 
-**DESIGN:**  
-![FIGMA](https://img.shields.io/badge/-FIGMA-000?style=flat-square&logo=figma&logoColor=00FF41)
-![ADOBE XD](https://img.shields.io/badge/-ADOBE_XD-000?style=flat-square&logo=adobe-xd&logoColor=00FF41)
+**design:**  
+![figma](https://img.shields.io/badge/-figma-000?style=flat-square&logo=figma&logoColor=00FF41)
+![adobe xd](https://img.shields.io/badge/-adobe_xd-000?style=flat-square&logo=adobe-xd&logoColor=00FF41)
 
-## 📈 ACTIVITY GRAPH
+## activity graph
 
-![GITHUB ACTIVITY GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=agungdevx&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&font_family=Courier)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agungdevx&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true&font_family=Courier)
 
 ---
 
-## 📫 CONNECT WITH ME
+## connect with me
 
 <div align="center">
 
-| INSTAGRAM | LINKEDIN | PORTFOLIO | EMAIL |
+| | | | |
 | :---: | :---: | :---: | :---: |
-| [![IG](https://img.shields.io/badge/-INSTAGRAM-000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/agungdevx) | [![LI](https://img.shields.io/badge/-LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/agungdevx) | [![PF](https://img.shields.io/badge/-PORTFOLIO-000?style=for-the-badge&logo=polywork&logoColor=00FF41)](https://agungdevx.com) | [![EM](https://img.shields.io/badge/-EMAIL-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:hello@agungdevx.com)
+| <a href="https://instagram.com/agungdevx"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="32" height="32" alt="Instagram"></a> | <a href="https://linkedin.com/in/agungdevx"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="32" height="32" alt="LinkedIn"></a> | <a href="https://agungdevx.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/link.svg" width="32" height="32" alt="Portfolio"></a> | <a href="mailto:hello@agungdevx.com"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" width="32" height="32" alt="Email"></a> |
+| **instagram** | **linkedin** | **portfolio** | **email** |
 
 </div>
 
@@ -42,8 +43,8 @@ I'M A PASSIONATE DEVELOPER WHO ENJOYS CREATING DIGITAL EXPERIENCES THAT BLEND AE
 
 <div align="center">
   
-![VISITOR COUNT](https://komarev.com/ghpvc/?username=agungdevx&label=VISITORS&color=00FF41&style=flat-square)
+![visitor count](https://komarev.com/ghpvc/?username=agungdevx&label=visitors&color=00FF41&style=flat-square)
 
 </div>
 
-*README CRAFTED WITH CARE* ✨
+*readme crafted with care* ✨
