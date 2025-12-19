@@ -1,1 +1,1 @@
-## **👋 Hi, I'm Agung Mahesa**
+## **hi, i'm agung mahesa** <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/hand.svg" width="24" height="24" style="vertical-align:middle">
