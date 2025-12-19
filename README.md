@@ -17,7 +17,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 ### **🛠️ Tech Stack**
 
 **Frontend**  
-![React](https://img.shields.io/badge/-react-000?style=flat-square&logo=react&logoColor=00FF41)
+![React](https://img.shields.io/badge/-react-000?style=flat-square&logo=React&logoColor=00FF41)
 ![Ttpescript](https://img.shields.io/badge/-typescript-000?style=flat-square&logo=typescript&logoColor=00FF41)
 ![Next.js](https://img.shields.io/badge/-next.js-000?style=flat-square&logo=nextdotjs&logoColor=00FF41)
 ![Tailwind css](https://img.shields.io/badge/-tailwind_css-000?style=flat-square&logo=tailwindcss&logoColor=00FF41)
