@@ -6,6 +6,6 @@ Beginner Developer || UI/UX Enthusiast || Api Developer || Website Developer || 
 ## **👨‍💻 About Me**
 I'm a passionate developer focused on building scalable and innovative applications. With expertise in HTML, CSS, JavaScript, React, Python, Next.js, Node.js, and Tailwind, I'm always eager to explore new technologies and create effective solutions. 🚀
 
-- **Name::** Agung Mahesa 
-- **Age::** 19 years old
-- **Location::** Cianjur, West Java, Indonesia 
+- **Name ::** Agung Mahesa 
+- **Age ::** 19 years old
+- **Location ::** Cianjur, West Java, Indonesia 
