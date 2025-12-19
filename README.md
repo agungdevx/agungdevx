@@ -1,64 +1,78 @@
-<!-- README.md -->
 <div align="center">
 
-![Hero Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanE3eXE0ZjhrMm8wdGt2ZDFnYXpwbnE0MGNsdWd3YXUxOGluanlyMyZjdD1n/TilmLMmWrRYYHjLfub/giphy.gif)
+# 🚀 Hello World, I'm Agung! 
+### ⚡ Full Stack Developer | UI/UX Enthusiast | Problem Solver
 
-# 🦄 Fullstack Minimal UI/UX Pro
+<img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=Agung%20DevX&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 
-**Welcome to your next full stack playground —**  
-_Level up your web development journey with a professional, modern template!_
-
----
-
-<a href="https://github.com/agungdevx/fullstack-minimal">
-  <img src="https://img.shields.io/github/stars/agungdevx/fullstack-minimal?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/agungdevx/fullstack-minimal?label=Forks&style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/agungdevx/fullstack-minimal?style=for-the-badge&color=orange"/>
-  <img src="https://img.shields.io/github/license/agungdevx/fullstack-minimal?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Game%20Inside-Snake-1abc9c?style=for-the-badge&logo=unity" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Crafting+Digital+Experiences;Full+Stack+Magic+🪄;UI/UX+Precision+🎨;Building+the+Future+of+Web)](https://git.io/typing-svg)
 
 ---
 
-[![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&style=flat-square)](https://nextjs.org/)
-[![Express](https://img.shields.io/badge/-Express.js-gray?logo=express&style=flat-square)](https://expressjs.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=flat-square)](https://www.docker.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&style=flat-square)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&style=flat-square)](https://tailwindcss.com/)
+### 🎮 Take a Break? Play Snake!
+<img src="https://github.com/agungdevx/agungdevx/blob/output/github-contribution-grid-snake.svg" alt="snake game" width="100%" />
 
 </div>
 
 ---
 
-## 🎬 Live Preview
-
-> **Professional. Animative. Fun.**  
-> ![UI Animation Preview](https://github.com/agungdevx/fullstack-minimal/raw/main/public/demo-ui-animated.gif)
-
----
-
-## ✨ Highlights
-
-- **Blazing Fast Next.js Frontend**  
-- **Type-Safe Express.js API**  
-- **Beautiful UI/UX with Tailwind**  
-- **Instant Docker Deployment**  
-- **Lint, Test, & Format: Out of the Box!**  
-- **Dark Mode, Animations, Transitions**  
-- **🚀 Game Mode: Ssst, buka `/game` untuk main SNAKE!**
+## 💫 About Me
+- 🔭 I’m currently working on **High-Performance Web Apps**
+- 🎨 I bridge the gap between **Aesthetic Design** and **Robust Backend**
+- 🎓 Constant learner in **Cloud Architecture** and **AI Integration**
+- 💬 Ask me about **React, Node.js, or why UX matters**
+- ⚡ Fun fact: **I believe clean code is a form of art.**
 
 ---
 
-## 👾 Game Mode Sneak Peek
+## 🛠️ My Tech Stack
 
-Main game SNAKE langsung di app!  
-![Snake Game Demo](https://github.com/agungdevx/fullstack-minimal/raw/main/public/snake-demo.gif)
+### 🎨 Frontend & UI/UX
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## ⚡️ One-Liner Setup
+## 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agungdevx&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agungdevx&layout=compact&theme=tokyonight" height="180em" />
+</div>
 
-```bash
-npx degit agungdevx/fullstack-minimal my-app
-cd my-app
-npm install && npm run dev
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agungdevx&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agungdevx" height="30" width="40" /></a>
+<a href="https://instagram.com/YOUR_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agungdevx" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/mail.png" height="30" width="40" /></a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agungdevx&label=Profile%20Views&color=00d2ff&style=flat" alt="agungdevx" />
+</p>
