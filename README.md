@@ -14,7 +14,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 - **I am a ::** Beginner programmer
 - **Focus ::** Building a Portfolio, RestAPI Website, and AI Integration
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### **🛠️ Tech Stack**
 
@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=00FF41)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=00FF41)
 
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### **`📊 Github Analytics`**
 
@@ -56,7 +56,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 </div>
 
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### **`📈 Contribution`**
 
@@ -68,7 +68,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 </div>
 
----
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### **📱 Contact Me**
 
@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 | :--- | :--- | :---: |
 | **Instagram** | [@agungdevx](https://instagram.com/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00FF41?style=flat-square) |
 | **LinkedIn** | [agungdevx](https://linkedin.com/in/agungdevx) | ![Active](https://img.shields.io/badge/-Active-00FF41?style=flat-square) |
-| **Email** | hello@agungdevx.com | ![24h](https://img.shields.io/badge/-24h-00FF41?style=flat-square) |
+| **Email** | contact@agungdevx.my.id | ![24h](https://img.shields.io/badge/-24h-00FF41?style=flat-square) |
 | **Telegram** | [@agungdevx](https://t.me/agungdevx) | ![Responsive](https://img.shields.io/badge/-Responsive-00FF41?style=flat-square) |
 
 </div>
@@ -87,7 +87,9 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00FF41)](https://instagram.com/agungdevx)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/agungdevx)
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:hello@agungdevx.com)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:contact@agungdevx.my.id)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram&logoColor=00FF41)](https://t.me/agungdevx)
 
 </div>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
