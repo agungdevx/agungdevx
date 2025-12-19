@@ -14,7 +14,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 - **I am a ::** Beginner programmer
 - **Focus ::** Building a Portfolio, RestAPI Website, and AI Integration
 
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ### **`🛠️ Tech Stack`**
 
