@@ -13,6 +13,7 @@ I'm a passionate developer focused on building scalable and innovative applicati
 - **Location ::** Cianjur, West Java, Indonesia 
 - **I am a ::** Beginner programmer
 - **Focus ::** Building a Portfolio, RestAPI Website, and AI Integration
+- **Created at ::** 2025-12-19
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
