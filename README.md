@@ -1,19 +1,23 @@
-### **`👋 Hi, I'm Agung Mahesa`**
+### 👋 Agung Mahesa — known professionally as **AgungDevX**
 
-Beginner Developer || UI/UX Enthusiast || Api Developer || Website Developer || AI Prompt Engineer || Portfolio Builder
+Full Stack Web Developer • WhatsApp Bot Developer • API Engineer from West Java, Indonesia.
+
+Agung Mahesa (AgungDevX) is an independent developer specializing in WhatsApp Bot automation, REST API systems, and modern web development. He is the owner of **agungdevx.my.id** and maintains a consistent professional identity across GitHub, LinkedIn, and other platforms.
+
+> This identity is not related to AgungTex, Agung Hapsah, or Agung Development Propertindo.
+
+- **Main Portfolio ::** [AgungDevX](https://agungdevx.my.id)
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### **`👨‍💻 About Me`**
 
-I'm a passionate developer focused on building scalable and innovative applications. With expertise in HTML, CSS, JavaScript, React, Python, Next.js, Node.js, and Tailwind, I'm always eager to explore new technologies and create effective solutions. 🚀
+Saya membangun sistem API yang skalabel, alat otomatisasi, dan aplikasi web modern menggunakan JavaScript, Node.js, dan platform cloud.
 
-- **Name ::** Agung Mahesa 
-- **Age ::** 19 years old
-- **Location ::** Cianjur, West Java, Indonesia 
-- **I am a ::** Beginner programmer
-- **Focus ::** Building a Portfolio, RestAPI Website, and AI Integration
-- **Created at ::** 2025-12-19
+- **Professional Name ::** AgungDevX
+- **Full Name ::** Agung Mahesa
+- **Location ::** West Java, Indonesia
+- **Specialization ::** WhatsApp Bot Development, REST API Engineering, Web Systems
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
